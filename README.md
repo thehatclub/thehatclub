@@ -6,8 +6,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Spline+Sans+Mono&pause=1000&color=F7D03D&width=435&lines=I'm+a+Computer+Scientist!;I+love+web+development.;My+favorite+web+framework+is+Svelte!" alt="Typing SVG" /></a>
 </p>
 
-  
-    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  <a href="https://www.linkedin.com/in/trsmiley/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    
    
    <a href="https://stackoverflow.com/users/11911694/aastha-jha" target="_blank">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
