@@ -31,15 +31,3 @@
 <img align="center" alt="thehatclub" src="https://github-readme-stats.vercel.app/api?username=thehatclub&show_icons=true&count_private=true&theme=merko" height="192px"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehatclub&show_icons=true&locale=en&layout=compact&theme=merko" alt="thehatclub" height="192px"/>
 <br/>
-
-<br/>
-
-## Favorite Projects
-
-<a href="https://github.com/thehatclub/anime-archive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thehatclub&repo=anime-archive&theme=onedark" height="192px"/>
-</a>
-
-<a href="https://github.com/thehatclub/whimsigains">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thehatclub&repo=whimsigains&theme=onedark" height="192px"/>
-</a>
