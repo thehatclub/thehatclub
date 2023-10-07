@@ -1,4 +1,4 @@
-<h1>Hello Fellow < Developers/ >!</h1>
+<h1>My name is Tanner Smiley</h1>
 
 <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Spline+Sans+Mono&pause=1000&color=F7D03D&width=435&lines=I'm+a+Computer+Scientist!;I+love+web+development.;My+favorite+web+framework+is+Svelte!" alt="Typing SVG" /></a>
